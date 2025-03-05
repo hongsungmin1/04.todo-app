@@ -1,0 +1,58 @@
+.item{
+    background: linear-gradient(#64d3e6, #aa91e5);
+    border-radius: 1rem;
+    width: 550px;
+    height: 250px;
+    margin: 30px auto 0;
+}
+.category {
+    margin: 1rem 1rem;
+    
+    padding:0 .5rem .5rem;
+    color: white;
+    border-bottom: solid 1px rgb(219, 216, 216)
+}
+
+.main {
+    border-left: 5px solid rgb(149, 99, 241);
+    margin: 1rem 1rem;
+    padding-left: .5rem;
+}
+
+.text-primary {
+    color: rgb(21, 21, 170);
+}
+.text-overflow {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.text-secondary{
+    color: white
+}
+
+.extra{
+    margin: 0 1.5rem;
+    color: white
+}
+
+
+.red{
+color: red;
+border-left-color: red;
+}
+.blue{
+color: blue;
+border-left-color: blue
+}
+.green{
+color: green;
+border-left-color: green
+}
+.black{
+color: black;
+border-left-color:black
+}
+
+
+
+
